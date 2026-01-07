@@ -1,4 +1,5 @@
 **Project Overview**
+
 This project delivers a robust Business Intelligence (BI) Semantic Layer for QuickRestaurant, a data-driven dining and delivery platform. By architecting a series of complex SQL Views, I transformed raw transactional data into actionable insights focused on revenue growth, operational efficiency, and customer retention.
 
 **Objective**
