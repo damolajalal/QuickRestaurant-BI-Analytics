@@ -1,4 +1,15 @@
-**Revenue & Growth Strategy**
+**Project Overview**
+This project delivers a robust Business Intelligence (BI) Semantic Layer for QuickRestaurant, a data-driven dining and delivery platform. By architecting a series of complex SQL Views, I transformed raw transactional data into actionable insights focused on revenue growth, operational efficiency, and customer retention.
+
+**Objective**
+The primary goal is to provide stakeholders with "One Version of Truth" by automating the calculation of critical KPIs—such as SLA Compliance, Customer Churn, and Month-over-Month Growth—directly within the database layer.
+
+**Business Challenges Addressed**
+Operational Health: Monitoring delivery delays and SLA compliance to optimize logistics.
+
+**Revenue Protection**: Tracking cancellation rates by city to identify and mitigate revenue leakage.
+
+Customer Intelligence: Segmenting customers into loyalty tiers and identifying the top 5% "High-Value" spenders for targeted marketing.**Revenue & Growth Strategy**
 **The Problem:** The Executive team needs to know which regions are driving growth and where marketing spend is being wasted.
 
 **SQL Solution:** I developed the trend_orders view using the LAG() window function to calculate Month-over-Month (MoM) changes in order volume.
